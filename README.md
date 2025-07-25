@@ -1,7 +1,7 @@
 # Olá, eu sou o Leandro Neves 👋
 
 <p>
-  Sou estudante de Bacharelado em Sistemas de Informação na <strong>UNIRIO</strong> e Técnico em Informática formado pelo <strong>ISERJ - FAETEC</strong>. Apaixonado por tecnologia, com foco em desenvolvimento de software e solução de problemas através do código.
+  Estudante de Bacharelado em Sistemas de Informação na <strong>UNIRIO</strong> e Técnico em Informática formado pelo <strong>ISERJ - FAETEC</strong>. Apaixonado por tecnologia, com foco em desenvolvimento de software e solução de problemas através do código.
 </p>
 
 <p>
